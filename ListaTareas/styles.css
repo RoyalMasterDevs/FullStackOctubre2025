@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-color: rgb(46, 46, 155);
+    color: white;
+}
+
+.titulo {
+    color: white;
+    font-size: 40px;
+
+}
+
+.titulo:hover {
+    color: red;
+}
+
+li.completed {
+    text-decoration: line-through;
+    color: grey;
+}
